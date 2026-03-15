@@ -55,7 +55,7 @@ server/
 ## 🔗 相关项目
 
 - [语音助手核心项目](https://github.com/happynick1) - 获取语音助手主程序
-- [问题反馈](https://github.com/happynick1/issues) - 遇到问题请在此提交
+- [项目网站](https://nickapps.netlify.app) - 遇到问题请在此提交
 
 ## 📝 使用说明
 
